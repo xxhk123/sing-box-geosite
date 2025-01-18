@@ -13,3 +13,4 @@ https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash
 https://adrules.top/adrules_domainset.txt
 https://raw.githubusercontent.com/Loyalsoldier/surge-rules/release/gfw.txt
 https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/github.list
+https://raw.githubusercontent.com/sve1r/Rules-For-Quantumult-X/refs/heads/main/Rules/Services/Github.list
